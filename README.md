@@ -5,6 +5,11 @@
 
 In this assignment, we built a response login app in reqct.js using react mobile express and a MySQL database. The application that we built also stored the session data from the currently logged in user. In the application, the user types in their username and password and then clicks login. The session is then started, and the user is brought to a login screen. Just as with any other login application, if the user refreshes the page, they are still logged in, and the user also stays logged in even if they close the browser and then reopen it (for example if google chrome crashed for some reason). Finally, the user is able to log out in which case they are brought back to the login page. 
 
+<img width="393" alt="CS98 Hack2 Pic 1" src="https://user-images.githubusercontent.com/63208145/135330064-210f2ae1-e9e8-4505-8483-def9f2d24cf4.png">
+
+<img width="393" alt="CS98 Hack2 Pic 1" src="https://user-images.githubusercontent.com/63208145/135330296-392c2a75-c830-4e22-9f78-593374666702.png">
+
+
 ## Who Did What?
 
 Zoe and I initially struggled with the Github repository. We had some difficulty joining the same repository, and then renaming it (which is why it is called hack-a-thing-21f-2-ZoeWortzman). Because we had problems with the repository, we worked on the tutorial together on one laptop (Zoe's) for a while at the beginning. So, we would watch the videos togther, and take turns coding on Zoe's laptop. The coding was completely a joint effort, and we would often stop the tutorial videos to go over the sections we had just watched to discuss what we had learned. We also jointly wrote this ReadMe file. 
