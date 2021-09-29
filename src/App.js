@@ -1,7 +1,7 @@
 import React from 'react';
 import { observer } from 'mobx-react';
 import UserStore from './stores/UserStore';
-import LoginFrom from './LoginForm';
+import LoginForm from './LoginForm';
 import InputField from './InputField';
 import SubmitButton from './SubmitButton';
 import './App.css';
